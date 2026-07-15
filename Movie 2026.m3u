@@ -37,6 +37,10 @@ https://p0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=bjeYWY4ODFmNTFlYjZmNGM3NTIyZgMTI5O
 #EXTINF:-1 tvg-id="ThaiPBS_TV" tvg-name="ThaiPBS_TV" tvg-logo="https://img2.pic.in.th/Gemini_Generated_Image_i3go38i3go38i3go.png" group-title="ThaiTV Channels",ThaiPBS_TV
 https://p1.cdn.vet/live/ch1/i/ch1i.m3u8?sid=bjeNGQ2NDE5NTA1YmVjZDU2MjYwOAMTQ5ODg0YzRiZGMxZjNj
 
+#EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-logo="" group-title="ThaiTV Channels",MUTV
+https://godlivetv.io/madoball/1239/playlist.m3u8
+
+
 
 
 
