@@ -8,7 +8,7 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CH8_1080P" tvg-name="CH8_1080P" tvg-logo="https://img2.pic.in.th/ChatGPT-Image-15-..-2569-12_26_45.png" group-title="ThaiTV Channels",CH8_1080P
-https://p1.cdn.vet/live/ch33/i/ch33i.m3u8?sid=bjeZDAyODcxZDA3ZmU0Mzc2NTlhNwNjRmZWJlNzRmNzQ4MTI0
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MONO29_1080P" tvg-name="MONO29_1080P" tvg-logo="https://img2.pic.in.th/imageseec7baef0895a922.png" group-title="ThaiTV Channels",MONO29_1080P
 https://p0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=bjeNzZkZDhlZDU0N2FhZjZkMWM5MwNjBjYWE4NjRhMjY2NTUz
