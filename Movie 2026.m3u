@@ -96,8 +96,12 @@ https://media.vdohls.com/z6-gb1_heWdem/video.m3u8
 #EXTINF:-1 tvg-id="The Strangers Chapter 3 (2026)" tvg-name="The Strangers Chapter 3 (2026)" tvg-logo="https://img1.pic.in.th/images/92779.jpg" group-title="Movie_2026",The Strangers Chapter 3 (2026)
 https://media.vdohls.com/s-5g6Sc3_09dh/video.m3u8
 
-#EXTINF:-1 tvg-id="Colors of Evil Black (2026)" tvg-name="Colors of Evil Black (2026)" tvg-logo="" group-title="Movie_2026",Colors of Evil Black (2026) 
+#EXTINF:-1 tvg-id="Colors of Evil Black (2026)" tvg-name="Colors of Evil Black (2026)" tvg-logo="https://img2.pic.in.th/imagesd850e5695aa9e997.jpg" group-title="Movie_2026",Colors of Evil Black (2026) 
 https://vod1.stream25.com/Colors-of-Evil-Black-2026-sub.mp4.m3u8
+
+#EXTINF:-1 tvg-id="They Will Kill You (2026)" tvg-name="They Will Kill You (2026)" tvg-logo="https://img1.pic.in.th/images/imagesb7adae062396ef94.jpg" group-title="Movie_2026",They Will Kill You (2026) 
+https://vod1.stream25.com/They-Will-Kill-You-2026-TH.mp4.m3u8
+
 
 #EXTINF:-1 tvg-id="The Housemaid (2025)" tvg-name="The Housemaid (2025)" tvg-logo="https://img1.pic.in.th/images/92786.jpg" group-title="Movie_2025",The Housemaid (2025)
 https://media.vdohls.com/J0Nm-KsSvE_Wv/playlist.m3u8
