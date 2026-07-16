@@ -82,33 +82,33 @@ https://media.vdohls.com/j_zd-kvIi9kkK/playlist.m3u8
 6.#EXTINF:-1 tvg-id="Kraken (2026)" tvg-name="Kraken (2026)" tvg-logo="https://img1.pic.in.th/images/92762.jpg" group-title="Movie_2026",Kraken (2026)
 https://media.vdohls.com/dwV-Eb9J26_0V/playlist.m3u8
 
-8.#EXTINF:-1 tvg-id="Ballistic (2026)" tvg-name="Ballistic (2026)" tvg-logo="https://img1.pic.in.th/images/92765.jpg" group-title="Movie_2026",Ballistic (2026)
+7.#EXTINF:-1 tvg-id="Ballistic (2026)" tvg-name="Ballistic (2026)" tvg-logo="https://img1.pic.in.th/images/92765.jpg" group-title="Movie_2026",Ballistic (2026)
 https://media.vdohls.com/6ur-Ll_uVoR7H/playlist.m3u8
 
-9.#EXTINF:-1 tvg-id="The Whistler (2026)" tvg-name="The Whistler (2026)" tvg-logo="https://img2.pic.in.th/92768.jpg" group-title="Movie_2026",The Whistler (2026)
+8.#EXTINF:-1 tvg-id="The Whistler (2026)" tvg-name="The Whistler (2026)" tvg-logo="https://img2.pic.in.th/92768.jpg" group-title="Movie_2026",The Whistler (2026)
 https://media.vdohls.com/s0b6b-md3_Kr1/playlist.m3u8
 
-10.#EXTINF:-1 tvg-id="Tom Clancy s Jack Ryan Ghost War (2026)" tvg-name="Tom Clancy s Jack Ryan Ghost War (2026)" tvg-logo="https://img1.pic.in.th/images/92776.jpg" group-title="Movie_2026",Tom Clancy s Jack Ryan Ghost War (2026)
+9.#EXTINF:-1 tvg-id="Tom Clancy s Jack Ryan Ghost War (2026)" tvg-name="Tom Clancy s Jack Ryan Ghost War (2026)" tvg-logo="https://img1.pic.in.th/images/92776.jpg" group-title="Movie_2026",Tom Clancy s Jack Ryan Ghost War (2026)
 https://media.vdohls.com/Cht-yfUHPt_qQ/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="The Housemaid (2025)" tvg-name="The Housemaid (2025)" tvg-logo="https://img1.pic.in.th/images/92786.jpg" group-title="Movie_2025",The Housemaid (2025)
+1.#EXTINF:-1 tvg-id="The Housemaid (2025)" tvg-name="The Housemaid (2025)" tvg-logo="https://img1.pic.in.th/images/92786.jpg" group-title="Movie_2025",The Housemaid (2025)
 https://media.vdohls.com/J0Nm-KsSvE_Wv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Ready or Not 2 Here I Come (2026)" tvg-name="Ready or Not 2 Here I Come (2026)" tvg-logo="https://img2.pic.in.th/92734.jpg" group-title="Movie Horror",Ready or Not 2 Here I Come (2026)
+1.#EXTINF:-1 tvg-id="Ready or Not 2 Here I Come (2026)" tvg-name="Ready or Not 2 Here I Come (2026)" tvg-logo="https://img2.pic.in.th/92734.jpg" group-title="Movie Horror",Ready or Not 2 Here I Come (2026)
 https://media.vdohls.com/EFJjw_Pq-4vh9/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" I.T.(2016)" tvg-name="I.T.(2016)" tvg-logo="https://img2.pic.in.th/92743.jpg" group-title="Movie Horror",I.T.(2016)
+2.#EXTINF:-1 tvg-id=" I.T.(2016)" tvg-name="I.T.(2016)" tvg-logo="https://img2.pic.in.th/92743.jpg" group-title="Movie Horror",I.T.(2016)
 https://media.vdohls.com/cT_a7a-qnMrQR/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Home Invasion (2016)" tvg-name="Home Invasion (2016)" tvg-logo="https://img2.pic.in.th/92740.jpg" group-title="Movie Horror",Home Invasion (2016)
+3.#EXTINF:-1 tvg-id="Home Invasion (2016)" tvg-name="Home Invasion (2016)" tvg-logo="https://img2.pic.in.th/92740.jpg" group-title="Movie Horror",Home Invasion (2016)
 https://media.vdohls.com/3Tv-SsnHU_iAo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Wake Up (2024)" tvg-name="Wake Up (2024)" tvg-logo="https://img1.pic.in.th/images/92753.jpg" group-title="Movie Horror",Wake Up (2024) 
+4.#EXTINF:-1 tvg-id="Wake Up (2024)" tvg-name="Wake Up (2024)" tvg-logo="https://img1.pic.in.th/images/92753.jpg" group-title="Movie Horror",Wake Up (2024) 
 https://media.vdohls.com/3Tv-SsnHU_iAo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Youll Die in Six Hours (2024)" tvg-name="Youll Die in Six Hours (2024)" tvg-logo="https://img2.pic.in.th/92758.jpg" group-title="Movie Horror",Youll Die in Six Hours (2024) 
+5.#EXTINF:-1 tvg-id="Youll Die in Six Hours (2024)" tvg-name="Youll Die in Six Hours (2024)" tvg-logo="https://img2.pic.in.th/92758.jpg" group-title="Movie Horror",Youll Die in Six Hours (2024) 
 https://media.vdohls.com/n8v_Klc-u83EE/playlist.m3u8
 
 
