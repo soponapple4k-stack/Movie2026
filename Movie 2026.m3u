@@ -71,7 +71,7 @@ https://media.vdohls.com/ED-Rfdpo_xqTN/video.m3u8
 #EXTINF:-1 tvg-id="Tayuan 2 (2026)" tvg-name="Tayuan 2 (2026)" tvg-logo="https://img2.pic.in.th/1000044266.webp" group-title="EROTIC_R",Tayuan 2 (2026)
 https://media.vdohls.com/6mW_yHulK-8wy/video.m3u8
 
-Movie 
+Movie2026
 
 #EXTINF:-1 tvg-id="Boulevard (2026)" tvg-name="Boulevard (2026)" tvg-logo="https://img2.pic.in.th/1000044285.webp" group-title="Movie 2026",Boulevard (2026)
 https://media.vdohls.com/vwMhOZj_Xa-Jd/playlist.m3u8
@@ -82,6 +82,20 @@ https://media.vdohls.com/vMrQq_yDV-oIA/playlist.m3u8
 #EXTINF:-1 tvg-id="Office Romance (2026)" tvg-name="Office Romance (2026)" tvg-logo="https://img2.pic.in.th/92730.jpg" group-title="Movie 2026",Office Romance (2026)
 https://media.vdohls.com/BTYu_yt2DD-ix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="movie horror" tvg-name="Ready or Not 2 Here I Come (2026)" tvg-logo="https://img2.pic.in.th/92734.jpg" group-title="Movie 2026",Ready or Not 2 Here I Come (2026)
-https://media.vdohls.com/BTYu_yt2DD-ix/playlist.m3u8
+#EXTINF:-1 tvg-id="Scare Out (2026)" tvg-name="Scare Out (2026)" tvg-logo="https://img1.pic.in.th/images/92746.jpg" group-title="Movie 2026",Scare Out (2026)
+https://media.vdohls.com/Rh-X1_iW9dL8e/playlist.m3u8
 
+Movie Horror
+#EXTINF:-1 tvg-id="Ready or Not 2 Here I Come (2026)" tvg-name="Ready or Not 2 Here I Come (2026)" tvg-logo="https://img2.pic.in.th/92734.jpg" group-title="Movie Horror",Ready or Not 2 Here I Come (2026)
+https://media.vdohls.com/EFJjw_Pq-4vh9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ready or Not 2 Here I Come (2026)" tvg-name="Ready or Not 2 Here I Come (2026)" tvg-logo="https://img2.pic.in.th/92734.jpg" group-title="Movie Horror",Ready or Not 2 Here I Come (2026)
+https://media.vdohls.com/EFJjw_Pq-4vh9/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id=" I.T.(2016)" tvg-name="I.T.(2016)" tvg-logo="https://img2.pic.in.th/92743.jpg" group-title="Movie Horror",I.T.(2016)
+https://media.vdohls.com/cT_a7a-qnMrQR/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Home Invasion (2016)" tvg-name="Home Invasion (2016)" tvg-logo="https://img2.pic.in.th/92740.jpg" group-title="Movie Horror",Home Invasion (2016)
+https://media.vdohls.com/3Tv-SsnHU_iAo/playlist.m3u8
