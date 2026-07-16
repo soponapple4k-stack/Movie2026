@@ -40,10 +40,6 @@ https://p1.cdn.vet/live/ch1/i/ch1i.m3u8?sid=bjeNGQ2NDE5NTA1YmVjZDU2MjYwOAMTQ5ODg
 #EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-logo="https://img1.pic.in.th/images/unnamedc62165005535ae1f.png" group-title="Football",MUTV
 https://godlivetv.io/madoball/1239/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-logo="https://img1.pic.in.th/images/unnamedc62165005535ae1f.png" group-title="Football",MUTV
-https://godlivetv.io/madoball/1239/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="Palitan 2 (2026)" tvg-name="Palitan 2 (2026)" tvg-logo="https://img1.pic.in.th/images/1000044259.webp" group-title="EROTIC_R",Palitan 2 (2026)
@@ -67,7 +63,6 @@ https://media.vdohls.com/ED-Rfdpo_xqTN/video.m3u8
 #EXTINF:-1 tvg-id="Tayuan 2 (2026)" tvg-name="Tayuan 2 (2026)" tvg-logo="https://img2.pic.in.th/1000044266.webp" group-title="EROTIC_R",Tayuan 2 (2026)
 https://media.vdohls.com/6mW_yHulK-8wy/video.m3u8
 
-Movie_2026
 
 #EXTINF:-1 tvg-id="Boulevard (2026)" tvg-name="Boulevard (2026)" tvg-logo="https://img2.pic.in.th/1000044285.webp" group-title="Movie_2026",Boulevard (2026)
 https://media.vdohls.com/vwMhOZj_Xa-Jd/playlist.m3u8
@@ -96,7 +91,6 @@ https://media.vdohls.com/s0b6b-md3_Kr1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tom Clancy s Jack Ryan Ghost War (2026)" tvg-name="Tom Clancy s Jack Ryan Ghost War (2026)" tvg-logo="https://img1.pic.in.th/images/92776.jpg" group-title="Movie_2026",Tom Clancy s Jack Ryan Ghost War (2026)
 https://media.vdohls.com/Cht-yfUHPt_qQ/playlist.m3u8
 
-Movie_2025
 
 #EXTINF:-1 tvg-id="The Housemaid (2025)" tvg-name="The Housemaid (2025)" tvg-logo="https://img1.pic.in.th/images/92786.jpg" group-title="Movie_2025",The Housemaid (2025)
 https://media.vdohls.com/pM-J_slrX6eBO/video.m3u8
