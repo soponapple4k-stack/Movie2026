@@ -11,10 +11,10 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MONO29_1080P" tvg-name="MONO29_1080P" tvg-logo="https://img2.pic.in.th/imageseec7baef0895a922.png" group-title="ThaiTV Channels",MONO29_1080P
-https://cdnsv1.cdncloudbot.com/ball67/mono29/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI2IDg6MDE6MDQgUE0maGFzaF92YWx1ZT1aZmxaRXVPZEdTUW4rODZxYjNtRXlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTc4NDE0NTY2NDY2MiZzdHJtX2xlbj0xMw==
+=
 
 #EXTINF:-1 tvg-id="MCOT_HD" tvg-name="MCOT_HD" tvg-logo="https://img2.pic.in.th/moi8kx2vhrCvxUmTwM3-o.jpg" group-title="ThaiTV Channels",MCOT_HD
-https://godlivetv.io/madoball/6332/playlist.m3u8
+=
 
 #EXTINF:-1 tvg-id="NationTV" tvg-name="NationTV" tvg-logo="https://img2.pic.in.th/ChatGPT-Image-15-..-2569-11_44_58.png" group-title="ThaiTV Channels",NationTV
 https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
@@ -37,7 +37,10 @@ https://p0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=bjeYWY4ODFmNTFlYjZmNGM3NTIyZgMTI5O
 #EXTINF:-1 tvg-id="ThaiPBS_TV" tvg-name="ThaiPBS_TV" tvg-logo="https://img2.pic.in.th/Gemini_Generated_Image_i3go38i3go38i3go.png" group-title="ThaiTV Channels",ThaiPBS_TV
 https://p1.cdn.vet/live/ch1/i/ch1i.m3u8?sid=bjeNGQ2NDE5NTA1YmVjZDU2MjYwOAMTQ5ODg0YzRiZGMxZjNj
 
-#EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-logo="" group-title="ThaiTV Channels",MUTV
+#EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-logo="https://img1.pic.in.th/images/unnamedc62165005535ae1f.png" group-title="Football",MUTV
+https://godlivetv.io/madoball/1239/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-logo="https://img1.pic.in.th/images/unnamedc62165005535ae1f.png" group-title="Football",MUTV
 https://godlivetv.io/madoball/1239/playlist.m3u8
 
 
@@ -68,8 +71,14 @@ https://media.vdohls.com/ED-Rfdpo_xqTN/video.m3u8
 #EXTINF:-1 tvg-id="Tayuan 2 (2026)" tvg-name="Tayuan 2 (2026)" tvg-logo="https://img2.pic.in.th/1000044266.webp" group-title="EROTIC_R",Tayuan 2 (2026)
 https://media.vdohls.com/6mW_yHulK-8wy/video.m3u8
 
+Movie 
 
 #EXTINF:-1 tvg-id="Boulevard (2026)" tvg-name="Boulevard (2026)" tvg-logo="https://img2.pic.in.th/1000044285.webp" group-title="Movie 2026",Boulevard (2026)
 https://media.vdohls.com/vwMhOZj_Xa-Jd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Is God Is (2026)" tvg-name="Is God Is (2026)" tvg-logo="https://img1.pic.in.th/images/92729.jpg" group-title="Movie 2026",Is God Is (2026)
+https://media.vdohls.com/vMrQq_yDV-oIA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Office Romance (2026)" tvg-name="Office Romance (2026)" tvg-logo="https://img2.pic.in.th/92730.jpg" group-title="Movie 2026",Office Romance (2026)
+https://media.vdohls.com/BTYu_yt2DD-ix/playlist.m3u8
 
