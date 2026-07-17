@@ -40,6 +40,10 @@ https://p1.cdn.vet/live/ch1/i/ch1i.m3u8?sid=bjeNGQ2NDE5NTA1YmVjZDU2MjYwOAMTQ5ODg
 #EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-logo="https://img1.pic.in.th/images/unnamedc62165005535ae1f.png" group-title="Football",MUTV
 https://godlivetv.io/madoball/1239/playlist.m3u8
 
+#EXTINF:-1 tvg-id="fifa world cup 2026" tvg-name="fifa world cup 2026" tvg-logo="https://img2.pic.in.th/1000059398.jpg" group-title="Football",fifa world cup 2026
+https://playlist.yoyongmasamba.workers.dev/api/playlist.m3u
+
+
 
 
 #EXTINF:-1 tvg-id="Check-In (2026)" tvg-name="Check-In (2026)" tvg-logo=" https://img1.pic.in.th/images/1000059356.webp" group-title="EROTIC_R",Check-In (2026)
