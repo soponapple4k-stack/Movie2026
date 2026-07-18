@@ -544,23 +544,23 @@ https://godlivetv.io/madoball/2029/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="89" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/13918.jpg",🟡 Arena Sport 1
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/13918/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="90" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/13917.jpg",🟣 Arena Sport 2
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/13917/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="91" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/13916.jpg",🟢 Arena Sport 3
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/13916/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="92" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/13915.jpg",🔴 Arena Sport 4
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/13915/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="93" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/13071.jpg",🔵 Arena Sport 5
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/13071/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="94" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/7424.jpg",🟠 beIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://madoball.com
@@ -576,27 +576,27 @@ https://godlivetv.io/madoball/7422/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="97" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/7421.jpg",🟢 beIN SPORTS 4
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/7421/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="98" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/7420.jpg",🔴 beIN SPORTS 5
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/7420/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="99" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/7419.jpg",🔵 beIN SPORTS 6
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/7419/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="100" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/7418.jpg",🟠 beIN SPORTS 7
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/7418/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="101" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/7417.jpg",🟡 beIN SPORTS 8
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/7417/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="102" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/7416.jpg",🟣 beIN SPORTS 9
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/7416/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="103" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/7415.jpg",🟢 beIN SPORTS 10
 #EXTVLCOPT:http-referrer=https://madoball.com
@@ -957,3 +957,8 @@ https://godlivetv.io/madoball/8740/playlist.m3u8
 #EXTINF:-1 tvg-chno="193" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/10329.jpg",🟣 WWE Network
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/10329/playlist.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 เทสระบบ" tvg-logo="",🟣 เทส
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://fastfastcdn.com/hlsr2/a073d04b0386ce5dd80b1a4c8d85a96c/master.m3u8
