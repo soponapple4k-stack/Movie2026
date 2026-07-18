@@ -85,7 +85,8 @@ https://godlivetv.io/madoball/563/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1243/playlist.m3u8
 
-
+#EXTINF:-1 group-title="🇹🇭 ไทย",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
 # =============================================
 # 📰 หมวดหมู่: ข่าวสาร (News)
 # =============================================
