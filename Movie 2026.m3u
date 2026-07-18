@@ -82,10 +82,9 @@ https://godlivetv.io/madoball/1243/playlist.m3u8
 https://godlivetv.io/madoball/6336/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="60" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/461.jpg",🟢 One Channel
+#EXTVLCOPT:http-referrer=https://live-us1.thaimomo.com
 https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="One31.th@SD",One 31
-https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8
 
 
 # =============================================
