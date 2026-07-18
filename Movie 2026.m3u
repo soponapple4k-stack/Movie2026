@@ -409,8 +409,8 @@ http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="91" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/13916.jpg",🟢 Arena Sport 3
-#EXTVLCOPT:http-referrer=https://madoball.com
-
+#EXTVLCOPT:http-referrer=
+http://143.244.62.109/as3slo/index.m3u8
 
 #EXTINF:-1 tvg-chno="92" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/13915.jpg",🔴 Arena Sport 4
 #EXTVLCOPT:http-referrer=https://madoball.com
