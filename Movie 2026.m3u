@@ -152,7 +152,8 @@ https://godlivetv.io/madoball/1730/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1404/playlist.m3u8
 
-
+#EXTINF:-1 group-title="📰 ข่าวสาร",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
 # =============================================
 # 🎬 หมวดหมู่: ภาพยนตร์ (Movies)
 # =============================================
@@ -238,7 +239,8 @@ https://godlivetv.io/madoball/2056/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2739/playlist.m3u8
 
-
+#EXTINF:-1 group-title="🎬 ภาพยนตร์",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
 # =============================================
 # 📺 หมวดหมู่: การ์ตูน (Cartoon)
 # =============================================
@@ -256,7 +258,8 @@ https://godlivetv.io/madoball/8007/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/477/chunks.m3u8
 
-
+#EXTINF:-1 group-title="🎨 การ์ตูน",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
 # =============================================
 # 🎭 หมวดหมู่: บันเทิง (Entertainment)
 # =============================================
@@ -282,7 +285,8 @@ https://godlivetv.io/madoball/8736/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/8735/playlist.m3u8
 
-
+#EXTINF:-1 group-title="🎭 บันเทิง",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
 # =============================================
 # 🌍 หมวดหมู่: สารคดี (Documentary)
 # =============================================
@@ -340,7 +344,8 @@ https://godlivetv.io/madoball/722/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/740/playlist.m3u8
 
-
+#EXTINF:-1 group-title="🌍 สารคดี",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
 # =============================================
 # 🎲 หมวดหมู่: อื่นๆ (Others)
 # =============================================
@@ -386,7 +391,8 @@ https://godlivetv.io/madoball/2875/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2029/playlist.m3u8
 
-
+#EXTINF:-1 group-title="🎲 อื่นๆ",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
 # =============================================
 # ⚽ หมวดหมู่: กีฬา (Sports)
 # =============================================
@@ -807,7 +813,8 @@ https://godlivetv.io/madoball/8740/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/10329/playlist.m3u8
 
-
+#EXTINF:-1 group-title="⚽ กีฬา",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
 # =============================================
 # 🎬 หมวดหมู่: หนังชนโรง (Movies)
 # =============================================
@@ -876,6 +883,8 @@ https://player5.fastfastcdn.com/ttmaster_4709ea9cba338360cc720.m3u8
 https://player5.fastfastcdn.com/ttmaster_cf948888b55912e80e720.m3u8
 
 
+#EXTINF:-1 group-title="🇹🇭 หนังชนโรง",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
 # =============================================
 # 🎬 หมวดหมู่: หนัง 2026 (Movies)
 # =============================================
@@ -900,7 +909,8 @@ https://player5.fastfastcdn.com/ttmaster_d3e93ada1e92b36415720.m3u8
 #EXTVLCOPT:http-referrer=https://hd432.com
 https://player5.fastfastcdn.com/ttmaster_085051b9195e484863720.m3u8
 
-
+#EXTINF:-1 group-title="🇹🇭 หนัง 2026",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
 # =============================================
 # 🎬 หมวดหมู่: หนัง 2025 (Movies)
 # =============================================
@@ -917,3 +927,6 @@ https://player5.fastfastcdn.com/ttmaster_6f5a424b896dcc3761720.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2025" tvg-logo="https://img2.pic.in.th/images1353afd77bf055b1.jpg",🟣 The Housemaid (2025)
 #EXTVLCOPT:http-referrer=https://hd432.com
 https://player5.fastfastcdn.com/ttmaster_942a916d7085164fd0720.m3u8
+
+#EXTINF:-1 group-title="🇹🇭 หนัง 2025",[ช่องหลอกสำหรับปิดท้าย]
+http://localhost/dummy.mp4
