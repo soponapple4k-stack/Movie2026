@@ -84,6 +84,7 @@ https://godlivetv.io/madoball/563/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1243/playlist.m3u8
 
+#EXTGRP
 
 # 📰 หมวดหมู่: ข่าวสาร (News)
 # =============================================
@@ -148,7 +149,7 @@ https://godlivetv.io/madoball/1730/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1404/playlist.m3u8
 
-
+#EXTGRP
 # 🎬 หมวดหมู่: ภาพยนตร์ (Movies)
 # =============================================
 
@@ -232,7 +233,7 @@ https://godlivetv.io/madoball/2056/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2739/playlist.m3u8
 
-
+#EXTGRP
 # 📺 หมวดหมู่: การ์ตูน (Cartoon)
 # =============================================
 
@@ -248,7 +249,7 @@ https://godlivetv.io/madoball/8007/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/477/chunks.m3u8
 
-
+#EXTGRP
 # =============================================
 # 🎭 หมวดหมู่: บันเทิง (Entertainment)
 # =============================================
@@ -273,7 +274,7 @@ https://godlivetv.io/madoball/8736/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/8735/playlist.m3u8
 
-
+#EXTGRP
 # 🌍 หมวดหมู่: สารคดี (Documentary)
 # =============================================
 
@@ -330,7 +331,7 @@ https://godlivetv.io/madoball/722/playlist.m3u8
 https://godlivetv.io/madoball/740/playlist.m3u8
 
 
-
+#EXTGRP
 # 🎲 หมวดหมู่: อื่นๆ (Others)
 # =============================================
 
@@ -374,7 +375,7 @@ https://godlivetv.io/madoball/2875/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2029/playlist.m3u8
 
-
+#EXTGRP
 # ⚽ หมวดหมู่: กีฬา (Sports)
 # =============================================
 
@@ -795,7 +796,7 @@ https://godlivetv.io/madoball/8740/playlist.m3u8
 https://godlivetv.io/madoball/10329/playlist.m3u8
 
 
-
+#EXTGRP
 # 🎬 หมวดหมู่: หนังชนโรง (Movies)
 # =============================================
 
@@ -887,7 +888,7 @@ https://player5.fastfastcdn.com/ttmaster_d3e93ada1e92b36415720.m3u8
 https://player5.fastfastcdn.com/ttmaster_085051b9195e484863720.m3u8
 
 
-
+#EXTGRP
 # 🎬 หมวดหมู่: หนัง 2025 (Movies)
 # =============================================
 
