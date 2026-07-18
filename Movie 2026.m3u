@@ -82,8 +82,8 @@ https://godlivetv.io/madoball/1243/playlist.m3u8
 https://godlivetv.io/madoball/6336/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="60" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/461.jpg",🟢 One Channel
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/461/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://live-us1.thaimomo.com
+https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8
 
 
 # =============================================
@@ -830,7 +830,6 @@ https://master.steamhls88.com/hlsr2/f23d190bbc1ba8d696ec6f44453edb6c/master.m3u8
 https://fastfastcdn.com/hlsr2/0c216502d4162a1389e112c7e45bcfc2/master.m3u8
 
 
-
 #EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://img1.pic.in.th/images/images28cadf0e3ee89996.jpg",🟣 Colony (2026)
 #EXTVLCOPT:http-referrer=https://hd432.com
 https://player5.fastfastcdn.com/ttmaster_d684bfa5e6dad358f3720.m3u8
@@ -868,6 +867,7 @@ https://player5.fastfastcdn.com/ttmaster_4709ea9cba338360cc720.m3u8
 #EXTVLCOPT:http-referrer=https://hd432.com
 https://player5.fastfastcdn.com/ttmaster_cf948888b55912e80e720.m3u8
 
+
 # =============================================
 # 🎬 หมวดหมู่: หนัง 2026 (Movies)
 # =============================================
@@ -891,6 +891,7 @@ https://player5.fastfastcdn.com/ttmaster_d3e93ada1e92b36415720.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2026" tvg-logo="https://img2.pic.in.th/imagesb9cac9a27a474fd9.jpg",🟣 Return to Silent Hill (2026)
 #EXTVLCOPT:http-referrer=https://hd432.com
 https://player5.fastfastcdn.com/ttmaster_085051b9195e484863720.m3u8
+
 
 # =============================================
 # 🎬 หมวดหมู่: หนัง 2025 (Movies)
