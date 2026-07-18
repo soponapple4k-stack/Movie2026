@@ -1,9 +1,10 @@
 
 #EXTM3U
-
 # =============================================
 # 📺 หมวดหมู่: ช่องไทย (Thai Channels)
 # =============================================
+
+
 #EXTINF:-1 tvg-chno="55" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/6336.jpg",🟣 GMM 25
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/6336/playlist.m3u8
@@ -83,10 +84,12 @@ https://godlivetv.io/madoball/563/playlist.m3u8
 #EXTINF:-1 tvg-chno="26" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/1243.jpg",🟡 สุวรรณภูมิทีวี
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1243/playlist.m3u8
-#EXTGRP
 
+
+# =============================================
 # 📰 หมวดหมู่: ข่าวสาร (News)
 # =============================================
+
 
 #EXTINF:-1 tvg-chno="27" group-title="📰 ข่าวสาร" tvg-logo="https://madoball.com/upload/6638.jpg",🔴 BBC World News
 #EXTVLCOPT:http-referrer=https://madoball.com
@@ -148,9 +151,11 @@ https://godlivetv.io/madoball/1730/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1404/playlist.m3u8
 
-#EXTGRP
+
+# =============================================
 # 🎬 หมวดหมู่: ภาพยนตร์ (Movies)
 # =============================================
+
 
 #EXTINF:-1 tvg-chno="1" group-title="🎬 ภาพยนตร์" tvg-logo="https://madoball.com/upload/2821.jpg",🔴 3BB Asian
 #EXTVLCOPT:http-referrer=https://madoball.com
@@ -232,9 +237,11 @@ https://godlivetv.io/madoball/2056/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2739/playlist.m3u8
 
-#EXTGRP
+
+# =============================================
 # 📺 หมวดหมู่: การ์ตูน (Cartoon)
 # =============================================
+
 
 #EXTINF:-1 tvg-chno="" group-title="🎨 การ์ตูน" tvg-logo="https://cdn.madoball.com/upload/8999.jpg",🟠 ช่อง Boom
 #EXTVLCOPT:http-referrer=https://madoball.com
@@ -248,10 +255,11 @@ https://godlivetv.io/madoball/8007/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/477/chunks.m3u8
 
-#EXTGRP
+
 # =============================================
 # 🎭 หมวดหมู่: บันเทิง (Entertainment)
 # =============================================
+
 
 #EXTINF:-1 tvg-chno="54" group-title="🎭 บันเทิง" tvg-logo="https://madoball.com/upload/1418.jpg",🟢 Fashion TV
 #EXTVLCOPT:http-referrer=https://madoball.com
@@ -273,9 +281,11 @@ https://godlivetv.io/madoball/8736/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/8735/playlist.m3u8
 
-#EXTGRP
+
+# =============================================
 # 🌍 หมวดหมู่: สารคดี (Documentary)
 # =============================================
+
 
 #EXTINF:-1 tvg-chno="12" group-title="🌍 สารคดี" tvg-logo="https://madoball.com/upload/715.jpg",🟣 Thainess TV
 #EXTVLCOPT:http-referrer=https://madoball.com
@@ -330,9 +340,10 @@ https://godlivetv.io/madoball/722/playlist.m3u8
 https://godlivetv.io/madoball/740/playlist.m3u8
 
 
-#EXTGRP
+# =============================================
 # 🎲 หมวดหมู่: อื่นๆ (Others)
 # =============================================
+
 
 #EXTINF:-1 tvg-chno="79" group-title="🎲 อื่นๆ" tvg-logo="https://madoball.com/upload/1600.jpg",🟢 ABC Australia
 #EXTVLCOPT:http-referrer=https://madoball.com
@@ -374,9 +385,11 @@ https://godlivetv.io/madoball/2875/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/2029/playlist.m3u8
 
-#EXTGRP
+
+# =============================================
 # ⚽ หมวดหมู่: กีฬา (Sports)
 # =============================================
+
 
 #EXTINF:-1 tvg-chno="89" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/13918.jpg",🟡 Arena Sport 1
 #EXTVLCOPT:http-referrer=https://madoball.com
@@ -412,7 +425,6 @@ https://godlivetv.io/madoball/7422/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="97" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/7421.jpg",🟢 beIN SPORTS 4
 #EXTVLCOPT:http-referrer=https://madoball.com
-
 
 #EXTINF:-1 tvg-chno="98" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/7420.jpg",🔴 beIN SPORTS 5
 #EXTVLCOPT:http-referrer=https://madoball.com
@@ -795,9 +807,10 @@ https://godlivetv.io/madoball/8740/playlist.m3u8
 https://godlivetv.io/madoball/10329/playlist.m3u8
 
 
-#EXTGRP
+# =============================================
 # 🎬 หมวดหมู่: หนังชนโรง (Movies)
 # =============================================
+
 
 #EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://img1.pic.in.th/images/1000059478.webp",🟣 The Furious (2026) 
 #EXTVLCOPT:http-referrer=https://hd432.com
@@ -862,7 +875,7 @@ https://player5.fastfastcdn.com/ttmaster_4709ea9cba338360cc720.m3u8
 https://player5.fastfastcdn.com/ttmaster_cf948888b55912e80e720.m3u8
 
 
-
+# =============================================
 # 🎬 หมวดหมู่: หนัง 2026 (Movies)
 # =============================================
 
@@ -887,9 +900,10 @@ https://player5.fastfastcdn.com/ttmaster_d3e93ada1e92b36415720.m3u8
 https://player5.fastfastcdn.com/ttmaster_085051b9195e484863720.m3u8
 
 
-#EXTGRP
+# =============================================
 # 🎬 หมวดหมู่: หนัง 2025 (Movies)
 # =============================================
+
 
 #EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2025" tvg-logo="https://img2.pic.in.th/images74296345188fa47a.jpg",🟣 Nobody 2 (2025)
 #EXTVLCOPT:http-referrer=https://hd432.com
