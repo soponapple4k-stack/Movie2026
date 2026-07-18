@@ -815,6 +815,9 @@ https://godlivetv.io/madoball/8740/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/10329/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="194" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="⚽ กีฬา",🟡 Fox Sports 1 
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
 #EXTINF:-1 group-title="⚽ กีฬา",[ช่องหลอกสำหรับปิดท้าย]
 http://localhost/dummy.mp4
 # =============================================
