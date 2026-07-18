@@ -403,13 +403,12 @@ http://localhost/dummy.mp4
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-chno="89" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/13918.jpg",🟡 Arena Sport 1
 #EXTVLCOPT:http-referrer=
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="90" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/13917.jpg",🟣 Arena Sport 2
-#EXTVLCOPT:http-referrer=https://madoball.com
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="91" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/13916.jpg",🟢 Arena Sport 3
