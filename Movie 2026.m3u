@@ -75,9 +75,6 @@ https://vod1.stream25.com/Colors-of-Evil-Black-2026-sub.mp4.m3u8
 #EXTINF:-1 tvg-id="They Will Kill You (2026)" tvg-name="They Will Kill You (2026)" tvg-logo="https://img1.pic.in.th/images/imagesb7adae062396ef94.jpg" group-title="Movie 2026",They Will Kill You (2026) 
 https://vod1.stream25.com/They-Will-Kill-You-2026-TH.mp4.m3u8
 
-#EXTINF:-1 tvg-id="The Drama (2026)" tvg-name="The Drama (2026)" tvg-logo="https://img1.pic.in.th/images/92841.jpg" group-title="Movie 2026",The Drama (2026) 
-https://vod1.stream25.com/The-Drama-2026-V1-tha.mp4.m3u8
-
 #EXTINF:-1 tvg-id="Crime 101 (2026)" tvg-name="Crime 101 (2026)" tvg-logo="https://img2.pic.in.th/92848.jpg" group-title="Movie 2026",Crime 101 (2026) 
 https://vod1.stream25.com/Crime-101-2026-TH.mp4.m3u8
 
@@ -1002,4 +999,22 @@ https://player5.fastfastcdn.com/ttmaster_b03334035842a1f499720.m3u8
 https://player5.fastfastcdn.com/ttmaster_94b1fcf22e2717a7d6720.m3u8
 
 
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://img1.pic.in.th/images/imagese9f228f4775692ef.jpg",🟣 In the Grey (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_0c016d9b43eb1d157e720.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://img2.pic.in.th/images1fa3dbc212a881ca.jpg",🟣 The Legend Hunters (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_99ecbe29f3bc81240c720.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://img2.pic.in.th/images5a42956d34bd5e90.jpg",🟣 HUNGRY (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://fastfastcdn.com/hlsr2/210b34248d6cd7811d89fe78e0b41429/master.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://img1.pic.in.th/images/92841.jpg",🟣 The Drama (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_4709ea9cba338360cc720.m3u8
 
