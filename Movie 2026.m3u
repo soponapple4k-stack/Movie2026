@@ -5,6 +5,10 @@
 # 📺 หมวดหมู่: ช่องไทย (Thai Channels)
 # =============================================
 
+#EXTINF:-1 tvg-chno="60" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/461.jpg",🟢 One Channel
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://godlivetv.io/madoball/461/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="2" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/7161.jpg",🟣 7 HD
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/7161/playlist.m3u8
@@ -80,11 +84,6 @@ https://godlivetv.io/madoball/1243/playlist.m3u8
 #EXTINF:-1 tvg-chno="55" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/6336.jpg",🟣 GMM 25
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/6336/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="60" group-title="🇹🇭 ไทย" tvg-logo="https://madoball.com/upload/461.jpg",🟢 One Channel
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/461_backup/chunks.m3u8?url=aHR0cHM6Ly9sc3Y0Lmlud3N0cmVhbS5jb20vdHJhbnNjb2Rlcl9GMy9kdHYzMV9vbmVoZC9jaHVua3MubTN1OD9uaW1ibGVzZXNzaW9uaWQ9Mzg1MDMwMTUmd21zQXV0aFNpZ249YzJWeWRtVnlQV1F5Vm1sbVJGVjZUbnBGZVUxWWVIUmFWMVo2WW5jOVBTWnpaWEoyWlhKZmRHbHRaVDAzTHpFNEx6SXdNallnTnpvd05Ub3hNeUJCVFNab1lYTm9YM1poYkhWbFBUWlpibHBZV2t0WmVFZHhSMjU0VjFZNGJHdHBZVkU5UFNaMllXeHBaRzFwYm5WMFpYTTlNZz09
-
 
 
 # =============================================
