@@ -398,10 +398,6 @@ http://localhost/dummy.mp4
 # ⚽ หมวดหมู่: กีฬา (Sports)
 # =============================================
 
-#EXTINF:-1 tvg-id="🟡 Arena Sport 1
-#EXTVLCOPT:http-referrer=https://playlist.yoyongmasamba.workers.dev" tvg-logo="https://cdn.madoball.com/upload/13918.jpg" group-title="⚽ กีฬา",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 1
-http://88.212.15.19/live/test_arenasport/playlist.m3u8
-
 
 #EXTINF:-1 tvg-chno="89" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/13918.jpg",🟡 Arena Sport 1
 #EXTVLCOPT:http-referrer=
