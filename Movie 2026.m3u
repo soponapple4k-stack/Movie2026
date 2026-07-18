@@ -814,6 +814,9 @@ https://godlivetv.io/madoball/8740/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/10329/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="194" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="⚽ กีฬา",🔴 Monster Jam 
+https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
+
 
 #EXTINF:-1 group-title="⚽ กีฬา",[ช่องหลอกสำหรับปิดท้าย]
 http://localhost/dummy.mp4
