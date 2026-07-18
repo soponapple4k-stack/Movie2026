@@ -90,47 +90,63 @@ https://ip2a.imgtov.com/1/hv3/MXZ0cUQ3Yk9BYmd3dVFTZHFNQTVkSlRuckJsbWYyNGc2/hq/MX
 #EXTINF:-1 tvg-id="Ready or Not 2 Here I Come (2026)" tvg-name="Ready or Not 2 Here I Come (2026)" tvg-logo="https://img2.pic.in.th/92734.jpg" group-title="🇹🇭 หนัง2026",Ready or Not 2 Here I Come (2026)
 https://media.vdohls.com/EFJjw_Pq-4vh9/playlist.m3u8
 
+
+#EXTINF:-1 tvg-chno="1" group-title=""🇹🇭 หนัง2026" tvg-logo="https://img1.pic.in.th/images/images8206c1f5ad3ffb36.jpg",🔴 The Punisher: One Last Kill (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_a652653703e3de6a73720.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title=""🇹🇭 หนัง2026" tvg-logo="https://img2.pic.in.th/imagesb5a0fbd96f0dfbc4.jpg",🔴 Shelter (2026)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_7526cc8dfdf93c0e3c720.m3u8
+
+
+
+
 # =============================================
 # 🎬 หมวดหมู่: ภาพยนตร์ 2025 (Movies)
 # =============================================
 
 
-#EXTINF:-1 tvg-id="The Long Walk (2025) " tvg-name="The Long Walk (2025)" tvg-logo="https://img2.pic.in.th/images-27603ac39690de6f9.jpeg" group-title="Movie 2025",The Long Walk (2025) 
+#EXTINF:-1 tvg-id="The Long Walk (2025) " tvg-name="The Long Walk (2025)" tvg-logo="https://img2.pic.in.th/images-27603ac39690de6f9.jpeg" group-title="🇹🇭 หนัง2025",The Long Walk (2025) 
 https://vod1.stream25.com/The-Long-Walk-2025-SUB.mp4.m3u8
 
-#EXTINF:-1 tvg-id="Hunting Jessica Brok (2025) " tvg-name="Hunting Jessica Brok (2025)" tvg-logo="https://img2.pic.in.th/MV5BNGZlNDc4MDgtNTIwYS00YWYyLWI3MDAtNmIzMWQ0NzE5YzNhXkEyXkFqcGc._V1_.jpg" group-title="Movie 2025",Hunting Jessica Brok (2025)
+#EXTINF:-1 tvg-id="Hunting Jessica Brok (2025) " tvg-name="Hunting Jessica Brok (2025)" tvg-logo="https://img2.pic.in.th/MV5BNGZlNDc4MDgtNTIwYS00YWYyLWI3MDAtNmIzMWQ0NzE5YzNhXkEyXkFqcGc._V1_.jpg" group-title="🇹🇭 หนัง2025",Hunting Jessica Brok (2025)
 https://vod1.stream25.com/Hunting-Jessica-Brok-2025-sub.mp4.m3u8
 
 
-#EXTINF:-1 tvg-id="Murder Report (2025) " tvg-name="Murder Report (2025)" tvg-logo="https://img2.pic.in.th/1000059332.jpg" group-title="Movie 2025",Murder Report (2025) 
+#EXTINF:-1 tvg-id="Murder Report (2025) " tvg-name="Murder Report (2025)" tvg-logo="https://img2.pic.in.th/1000059332.jpg" group-title="🇹🇭 หนัง2025",Murder Report (2025) 
 https://vod1.stream25.com/Murder-Report-2025-TH.mp4.m3u8
 
-#EXTINF:-1 tvg-id="731 Evil Unbound (2025)" tvg-name="731 Evil Unbound (2025)" tvg-logo="https://img1.pic.in.th/images/1000059331.jpg" group-title="Movie 2025",731 Evil Unbound (2025)
+#EXTINF:-1 tvg-id="731 Evil Unbound (2025)" tvg-name="731 Evil Unbound (2025)" tvg-logo="https://img1.pic.in.th/images/1000059331.jpg" group-title="🇹🇭 หนัง2025",731 Evil Unbound (2025)
 https://vod1.stream25.com/731-Evil-Unbound-2025-sub.mp4.m3u8
 
-#EXTINF:-1 tvg-id="The Housemaid (2025)" tvg-name="The Housemaid (2025)" tvg-logo="https://img1.pic.in.th/images/92786.jpg" group-title="Movie 2025",The Housemaid (2025)
+#EXTINF:-1 tvg-id="The Housemaid (2025)" tvg-name="The Housemaid (2025)" tvg-logo="https://img1.pic.in.th/images/92786.jpg" group-title="🇹🇭 หนัง2025",The Housemaid (2025)
 https://media.vdohls.com/J0Nm-KsSvE_Wv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Huang Feihong The Black Yamen (2025)" tvg-name="Huang Feihong The Black Yamen (2025)" tvg-logo="https://img2.pic.in.th/lpFuaPS7l5jr2tPH0lrQH0khG8a.webp" group-title="Movie 2025",Huang Feihong The Black Yamen (2025)
+#EXTINF:-1 tvg-id="Huang Feihong The Black Yamen (2025)" tvg-name="Huang Feihong The Black Yamen (2025)" tvg-logo="https://img2.pic.in.th/lpFuaPS7l5jr2tPH0lrQH0khG8a.webp" group-title="🇹🇭 หนัง2025",Huang Feihong The Black Yamen (2025)
 https://vod1.stream25.com/Huang-Feihong-The-Black-Yamen-2025-TH.mp4.m3u8
 
-#EXTINF:-1 tvg-id="Together (2025)" tvg-name="Together (2025)" tvg-logo="https://img1.pic.in.th/images/92844.jpg" group-title="Movie 2025",Together (2025)
+#EXTINF:-1 tvg-id="Together (2025)" tvg-name="Together (2025)" tvg-logo="https://img1.pic.in.th/images/92844.jpg" group-title="🇹🇭 หนัง2025",Together (2025)
 https://vod1.stream25.com/Together-2025-TH.mp4.m3u8
 
-#EXTINF:-1 tvg-id="Worldbreaker (2025)" tvg-name="Worldbreaker (2025)" tvg-logo="https://img1.pic.in.th/images/92858.jpg" group-title="Movie 2025",Worldbreaker (2025)
+#EXTINF:-1 tvg-id="Worldbreaker (2025)" tvg-name="Worldbreaker (2025)" tvg-logo="https://img1.pic.in.th/images/92858.jpg" group-title="🇹🇭 หนัง2025",Worldbreaker (2025)
 https://vod1.stream25.com/Worldbreaker-2025-SUB.mp4.m3u8
 
-#EXTINF:-1 tvg-id="The Astronaut (2025)" tvg-name="The Astronaut (2025)" tvg-logo="https://img1.pic.in.th/images/92861.jpg" group-title="Movie 2025",The Astronaut (2025)
+#EXTINF:-1 tvg-id="The Astronaut (2025)" tvg-name="The Astronaut (2025)" tvg-logo="https://img1.pic.in.th/images/92861.jpg" group-title="🇹🇭 หนัง2025",The Astronaut (2025)
 https://vod1.stream25.com/The-Astronaut-2025-TH.mp4.m3u8
 
-#EXTINF:-1 tvg-id="Mieruko-Chan (2025)" tvg-name="Mieruko-Chan (2025)" tvg-logo="https://img1.pic.in.th/images/92864.jpg" group-title="Movie 2025",Mieruko-Chan (2025)
+#EXTINF:-1 tvg-id="Mieruko-Chan (2025)" tvg-name="Mieruko-Chan (2025)" tvg-logo="https://img1.pic.in.th/images/92864.jpg" group-title="🇹🇭 หนัง2025",Mieruko-Chan (2025)
 https://vod1.stream25.com/Mieruko-Chan-2025-tha.mp4.m3u8
 
-#EXTINF:-1 tvg-id="เสือ (2025)" tvg-name="เสือ (2025)" tvg-logo="https://img2.pic.in.th/92867.jpg" group-title="Movie 2025",เสือ (2025)
+#EXTINF:-1 tvg-id="เสือ (2025)" tvg-name="เสือ (2025)" tvg-logo="https://img2.pic.in.th/92867.jpg" group-title="🇹🇭 หนัง2025",เสือ (2025)
 https://vod1.stream25.com/4-Tigers-2025-TH.mp4.m3u8
 
-#EXTINF:-1 tvg-id="The Strangers Chapter 2 (2025)" tvg-name="The Strangers Chapter 2 (2025)" tvg-logo="https://img1.pic.in.th/images/92870.jpg" group-title="Movie 2025",The Strangers Chapter 2 (2025)
+#EXTINF:-1 tvg-id="The Strangers Chapter 2 (2025)" tvg-name="The Strangers Chapter 2 (2025)" tvg-logo="https://img1.pic.in.th/images/92870.jpg" group-title="🇹🇭 หนัง2025",The Strangers Chapter 2 (2025)
 https://vod1.stream25.com/The-Strangers-Chapter-2-2025-SUB.mp4.m3u8
+
+#EXTINF:-1 tvg-chno="1" group-title=""🇹🇭 หนัง2025" tvg-logo="https://img2.pic.in.th/images74296345188fa47a.jpg",🔴 Nobody 2 (2025)
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://player5.fastfastcdn.com/ttmaster_5400d5dd194163544a720.m3u8
 
 
 # =============================================
