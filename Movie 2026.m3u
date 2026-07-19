@@ -912,6 +912,10 @@ https://player5.fastfastcdn.com/ttmaster_4709ea9cba338360cc720.m3u8
 #EXTVLCOPT:http-referrer=https://hd432.com
 https://player5.fastfastcdn.com/ttmaster_cf948888b55912e80e720.m3u8
 
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://img2.pic.in.th/1000059633.webp",🟣 Evil Dead Burn (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://fastfastcdn.com/hlsr2/0011472c6887aa316d5a65bf26a97500/master.m3u8
+
 
 #EXTINF:-1 group-title="🇹🇭 หนังชนโรง",[ช่องหลอกสำหรับปิดท้าย]
 http://localhost/dummy.mp4
