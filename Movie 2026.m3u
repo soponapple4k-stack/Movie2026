@@ -951,7 +951,7 @@ https://player5.fastfastcdn.com/ttmaster_d3e93ada1e92b36415720.m3u8
 #EXTVLCOPT:http-referrer=https://hd432.com
 https://player5.fastfastcdn.com/ttmaster_085051b9195e484863720.m3u8
 
-#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2026" tvg-logo="https://img2.pic.in.th/1000059634.jpg",🟣 Men of War (2026) 
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2026" tvg-logo="https://img1.pic.in.th/images/1000059638.png",🟣 Men of War (2026) 
 #EXTVLCOPT:http-referrer=https://hd432.com
 https://main.24playerhd.com/m3u8/c44a4d026064e53bde5d79f9/c44a4d026064e53bde5d79f9438.m3u8
 
@@ -970,6 +970,12 @@ https://player5.fastfastcdn.com/ttmaster_5400d5dd194163544a720.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2025" tvg-logo="https://img1.pic.in.th/images/images17aa653199c0a6c9.jpg",🟣 Haunted Mountains: The Yellow Taboo (2025)
 #EXTVLCOPT:http-referrer=https://hd432.com
 https://player5.fastfastcdn.com/ttmaster_6f5a424b896dcc3761720.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2025" tvg-logo="https://img1.pic.in.th/images/images17aa653199c0a6c9.jpg",🟣 The Last Cabin (2025) 
+#EXTVLCOPT:http-referrer=https://media.vdohls.com
+https://media.vdohls.com/9-t_q10yiX4zA/video.m3u8
+
 
 #EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2025" tvg-logo="https://img2.pic.in.th/images1353afd77bf055b1.jpg",🟣 The Housemaid (2025)
 #EXTVLCOPT:http-referrer=https://hd432.com
