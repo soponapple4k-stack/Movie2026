@@ -546,10 +546,9 @@ https://godlivetv.io/madoball/7203/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="119" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/12684.jpg",🟡 Liverpool TV
 #EXTVLCOPT:http-referrer=https://madoball.com
-https://godlivetv.io/madoball/12684/playlist.m3u8
-
+http://117.18.127.253:8080/live/sakdaa/0442260/221830.m3u8
 #EXTINF:-1 tvg-chno="120" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/10330.jpg",🟣 MLB Network
-#EXTVLCOPT:http-referrer=https://madoball.com
+#EXTVLCOPT:http-referrer=
 https://godlivetv.io/madoball/10330/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="121" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/1239.jpg",🟢 MUTV
@@ -1003,41 +1002,3 @@ https://player5.fastfastcdn.com/ttmaster_942a916d7085164fd0720.m3u8
 #EXTINF:-1 group-title="🇹🇭 หนัง 2025",[ช่องหลอกสำหรับปิดท้าย]
 http://localhost/dummy.mp4
 
-#EXTINF:-1 tvg-id="iptv36.thaipbs" tvg-name="Thai PBS" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/tpbs.png" group-title="ดิจิตอลทีวี",Thai PBS
-http://117.18.127.253:8080/live/sakdaa/0442260/3.m3u8
-#EXTINF:-1 tvg-id="iptv36.tv5" tvg-name="CH 5 HD" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/ch5.png" group-title="ดิจิตอลทีวี",CH 5 HD
-http://117.18.127.253:8080/live/sakdaa/0442260/5.m3u8
-#EXTINF:-1 tvg-id="iptv36.nbt" tvg-name="NBT HD" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/nbt2.png" group-title="ดิจิตอลทีวี",NBT HD
-http://117.18.127.253:8080/live/sakdaa/0442260/6.m3u8
-#EXTINF:-1 tvg-id="iptv36.tsports" tvg-name="T SPORTS" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/tsport.png" group-title="ดิจิตอลทีวี",T SPORTS
-http://117.18.127.253:8080/live/sakdaa/0442260/7.m3u8
-#EXTINF:-1 tvg-id="iptv36.tptv" tvg-name="TPTV" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/tptv.png" group-title="ดิจิตอลทีวี",TPTV
-http://117.18.127.253:8080/live/sakdaa/0442260/8.m3u8
-#EXTINF:-1 tvg-id="iptv36.tnn16" tvg-name="TNN 16" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/tnn.png" group-title="ดิจิตอลทีวี",TNN 16
-http://117.18.127.253:8080/live/sakdaa/0442260/9.m3u8
-#EXTINF:-1 tvg-id="iptv36.nation" tvg-name="NATION" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/nation.png" group-title="ดิจิตอลทีวี",NATION
-http://117.18.127.253:8080/live/sakdaa/0442260/11.m3u8
-#EXTINF:-1 tvg-id="iptv36.workpoint" tvg-name="WORKPOINT" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/wptv.png" group-title="ดิจิตอลทีวี",WORKPOINT
-http://117.18.127.253:8080/live/sakdaa/0442260/12.m3u8
-#EXTINF:-1 tvg-id="iptv36.true4u" tvg-name="TRUE4U" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/t4u.png" group-title="ดิจิตอลทีวี",TRUE4U
-http://117.18.127.253:8080/live/sakdaa/0442260/13.m3u8
-#EXTINF:-1 tvg-id="iptv36.gmm25" tvg-name="GMM" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/gmm.png" group-title="ดิจิตอลทีวี",GMM
-http://117.18.127.253:8080/live/sakdaa/0442260/14.m3u8
-#EXTINF:-1 tvg-id="iptv36.ch8" tvg-name="CH 8" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/ch8.png" group-title="ดิจิตอลทีวี",CH 8
-http://117.18.127.253:8080/live/sakdaa/0442260/15.m3u8
-#EXTINF:-1 tvg-id="iptv36.mono29" tvg-name="MONOSPORTMAX 29" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/monomaxsport29.png" group-title="ดิจิตอลทีวี",MONOSPORTMAX 29
-http://117.18.127.253:8080/live/sakdaa/0442260/16.m3u8
-#EXTINF:-1 tvg-id="iptv36.mcot" tvg-name="MCOT" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/mcot.png" group-title="ดิจิตอลทีวี",MCOT
-http://117.18.127.253:8080/live/sakdaa/0442260/17.m3u8
-#EXTINF:-1 tvg-id="iptv36.one" tvg-name="ONE" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/one.png" group-title="ดิจิตอลทีวี",ONE
-http://117.18.127.253:8080/live/sakdaa/0442260/18.m3u8
-#EXTINF:-1 tvg-id="iptv36.nbt" tvg-name="THAIRATH" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/thairath.png" group-title="ดิจิตอลทีวี",THAIRATH
-http://117.18.127.253:8080/live/sakdaa/0442260/19.m3u8
-#EXTINF:-1 tvg-id="iptv36.ch3" tvg-name="CH 3 HD" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/ch3.png" group-title="ดิจิตอลทีวี",CH 3 HD
-http://117.18.127.253:8080/live/sakdaa/0442260/20.m3u8
-#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="AMARIN TV" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/amarin.png" group-title="ดิจิตอลทีวี",AMARIN TV
-http://117.18.127.253:8080/live/sakdaa/0442260/21.m3u8
-#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="CH 7 HD" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/ch7.png" group-title="ดิจิตอลทีวี",CH 7 HD
-http://117.18.127.253:8080/live/sakdaa/0442260/22.m3u8
-#EXTINF:-1 tvg-id="iptv36.pptv" tvg-name="PPTV" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/pptv.png" group-title="ดิจิตอลทีวี",PPTV
-http://117.18.127.253:8080/live/sakdaa/0442260/23.m3u8
