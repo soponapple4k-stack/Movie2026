@@ -943,6 +943,10 @@ https://player5.fastfastcdn.com/ttmaster_d3e93ada1e92b36415720.m3u8
 #EXTVLCOPT:http-referrer=https://hd432.com
 https://player5.fastfastcdn.com/ttmaster_085051b9195e484863720.m3u8
 
+#EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนัง 2026" tvg-logo="https://img2.pic.in.th/1000059634.jpg",🟣 Men of War (2026) 
+#EXTVLCOPT:http-referrer=https://hd432.com
+https://main.24playerhd.com/m3u8/c44a4d026064e53bde5d79f9/c44a4d026064e53bde5d79f9438.m3u8
+
 #EXTINF:-1 group-title="🇹🇭 หนัง 2026",[ช่องหลอกสำหรับปิดท้าย]
 http://localhost/dummy.mp4
 
