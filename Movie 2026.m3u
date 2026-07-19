@@ -244,11 +244,20 @@ https://godlivetv.io/madoball/2739/playlist.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-name="🟣 MONO PLUS" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135043006586.png" group-title="🎬 ภาพยนตร์",🟣 MONO PLUS
 http://117.18.127.253:8080/live/sakdaa/0442260/216599.m3u8
 
-#EXTINF:-1 tvg-chno="99" tvg-name=",🟢 MONO MUSIC" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250718132608006772.png" group-title="🎬 ภาพยนตร์",🟢 MONO MUSIC
+#EXTINF:-1 tvg-chno="99" tvg-name="🟢 MONO MUSIC" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250718132608006772.png" group-title="🎬 ภาพยนตร์",🟢 MONO MUSIC
 http://117.18.127.253:8080/live/sakdaa/0442260/216600.m3u8
 
-#EXTINF:-1 tvg-chno="100" tvg-name="IMC" tvg-logo="https://img2.pic.in.th/1000533252.png" group-title="🎬 ภาพยนตร์",🔵 IMC
+#EXTINF:-1 tvg-chno="100" tvg-name="🔵 IMC" tvg-logo="https://img2.pic.in.th/1000533252.png" group-title="🎬 ภาพยนตร์",🔵 IMC
 http://117.18.127.253:8080/live/sakdaa/0442260/119704.m3u8
+
+#EXTINF:-1 tvg-chno="101" tvg-name="🔴 AMC" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/asianmovie.png" group-title="🎬 ภาพยนตร์",🔴 AMC
+http://117.18.127.253:8080/live/sakdaa/0442260/119705.m3u8
+
+#EXTINF:-1 tvg-chno="102" tvg-name="🟣 TCC" tvg-logo="https://img2.pic.in.th/1000533253.png" group-title="🎬 ภาพยนตร์",🟣 TCC
+http://117.18.127.253:8080/live/sakdaa/0442260/119706.m3u8
+
+#EXTINF:-1 tvg-chno="103" tvg-name="🟢 ASS" tvg-logo="https://img2.pic.in.th/1000533263.png" group-title="🎬 ภาพยนตร์",🟢 ASS
+http://117.18.127.253:8080/live/sakdaa/0442260/119707.m3u8
 
 
 #EXTINF:-1 group-title="🎬 ภาพยนตร์",[ช่องหลอกสำหรับปิดท้าย]
