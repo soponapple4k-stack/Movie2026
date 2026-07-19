@@ -840,7 +840,8 @@ https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="⚽ กีฬา",🔴 Red Bull TV US
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 
-
+#EXTINF:-1 tvg-chno="203"  tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="⚽ กีฬา",🔴 ACI Sport TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
 #EXTINF:-1 group-title="⚽ กีฬา",[ช่องหลอกสำหรับปิดท้าย]
 http://localhost/dummy.mp4
