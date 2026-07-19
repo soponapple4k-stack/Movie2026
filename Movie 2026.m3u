@@ -259,6 +259,9 @@ http://117.18.127.253:8080/live/sakdaa/0442260/119706.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-name="🟢 ASS" tvg-logo="https://img2.pic.in.th/1000533263.png" group-title="🎬 ภาพยนตร์",🟢 ASS
 http://117.18.127.253:8080/live/sakdaa/0442260/119707.m3u8
 
+#EXTINF:-1 tvg-chno="104" tvg-name="🔵 ANIME TV" tvg-logo="https://img2.pic.in.th/1000591940.png" group-title="🎬 ภาพยนตร์",🔵 ANIME TV
+http://117.18.127.253:8080/live/sakdaa/0442260/31426.m3u8
+
 
 #EXTINF:-1 group-title="🎬 ภาพยนตร์",[ช่องหลอกสำหรับปิดท้าย]
 http://localhost/dummy.mp4
