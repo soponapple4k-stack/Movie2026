@@ -247,6 +247,9 @@ http://117.18.127.253:8080/live/sakdaa/0442260/216599.m3u8
 #EXTINF:-1 tvg-chno="99" tvg-name=",🟢 MONO MUSIC" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250718132608006772.png" group-title="🎬 ภาพยนตร์",🟢 MONO MUSIC
 http://117.18.127.253:8080/live/sakdaa/0442260/216600.m3u8
 
+#EXTINF:-1 tvg-chno="100" tvg-name="IMC" tvg-logo="https://img2.pic.in.th/1000533252.png" group-title="🎬 ภาพยนตร์",🔵 IMC
+http://117.18.127.253:8080/live/sakdaa/0442260/119704.m3u8
+
 
 #EXTINF:-1 group-title="🎬 ภาพยนตร์",[ช่องหลอกสำหรับปิดท้าย]
 http://localhost/dummy.mp4
