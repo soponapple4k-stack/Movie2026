@@ -623,7 +623,7 @@ https://godlivetv.io/madoball/1433/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1432/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="146" group-title="⚽ กีฬา" tvg-logo="https://cdn.madoball.com/upload/1436.jpg",🟢 Play Sports 90
+#EXTINF:-1 tvg-chno="146" group-title="⚽ กีฬา" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20260629121703060032.png",🟢 Play Sports 90
 #EXTVLCOPT:http-referrer=https://madoball.com
 https://godlivetv.io/madoball/1436/playlist.m3u8
 
