@@ -244,6 +244,9 @@ https://godlivetv.io/madoball/2739/playlist.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-name="🟣 MONO PLUS" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135043006586.png" group-title="🎬 ภาพยนตร์",🟣 MONO PLUS
 http://117.18.127.253:8080/live/sakdaa/0442260/216599.m3u8
 
+#EXTINF:-1 tvg-chno="68" tvg-name=",🟢 MONO MUSIC" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250718132608006772.png" group-title="🎬 ภาพยนตร์",🟢 MONO MUSIC
+http://117.18.127.253:8080/live/sakdaa/0442260/216600.m3u8
+
 #EXTINF:-1 group-title="🎬 ภาพยนตร์",[ช่องหลอกสำหรับปิดท้าย]
 http://localhost/dummy.mp4
 # =============================================
