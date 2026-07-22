@@ -876,7 +876,7 @@ http://localhost/dummy.mp4
 # =============================================
 # 🎬 หมวดหมู่: หนังชนโรง (Movies)
 # =============================================
-
+#EXTM3U
 
 #EXTINF:-1 tvg-chno="1" group-title="🇹🇭 หนังชนโรง" tvg-logo="https://img1.pic.in.th/images/1000059478.webp",🟣 The Furious (2026) 
 #EXTVLCOPT:http-referrer=https://hd432.com
